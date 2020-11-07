@@ -1,0 +1,60 @@
+body{
+    background-image: url('i2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#div1{
+    background-image: url('i1.jpg');
+    background-size: cover;
+    display: block;
+    float: left;
+    margin-left: 15%;
+    
+    height: 50%;
+    padding-top: 10%;
+    padding-left: 4%;
+    padding-right: 4%;
+    width:20%;
+    margin-bottom: 10%;
+    border: 1px solid grey;
+}
+#h1{
+    padding-left: 8%;
+    font-family: times new roman;
+}
+#text-one{
+    display: block;
+    font-family:sans-serif ;
+}
+#div2{
+    border: 1px solid grey;
+    display: block;
+    background-color:white;
+    width: 30%;
+    padding: 5%;
+    
+    margin-left: 42%;
+    margin-top: 7%;
+    height: 50%;
+    
+}
+#div3,#div4,#div5,#div6{
+    margin-bottom: 2%;
+    margin-left: 4%;
+    border-bottom: 2px rgb(168, 166, 166) solid;
+}
+#btn1{
+background-color: rgb(85, 185, 231);
+border: none;
+padding-left: 2%;
+padding-right: 2%;
+border-radius: 1%;
+height:15%;
+line-height: 15%;
+margin-left: 4%;
+}
+.in1{
+    border: none;
+    margin-left:2%;
+    margin-bottom: 1%;
+}
